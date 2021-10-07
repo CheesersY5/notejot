@@ -29,7 +29,7 @@ msgstr "新しいノート"
 
 #: src/MainWindow.vala:330
 msgid "This is a text example."
-msgstr ""
+msgstr "このテキストは例です"
 
 #: src/MainWindow.vala:368
 msgid "Jot your ideas."
@@ -37,15 +37,15 @@ msgstr ""
 
 #: src/MainWindow.vala:374
 msgid "translator-credits"
-msgstr ""
+msgstr "翻訳者のクレジット"
 
 #: src/MainWindow.vala:397 data/ui/title_menu.ui:11
 msgid "Trash"
-msgstr ""
+msgstr "ゴミ箱"
 
 #: src/MainWindow.vala:409
 msgid "Empty the Trashed Notes?"
-msgstr ""
+msgstr "ゴミ箱を空にしますか？"
 
 #: src/MainWindow.vala:410
 msgid ""
@@ -59,23 +59,23 @@ msgstr ""
 
 #: src/MainWindow.vala:413 data/ui/menu.ui:30
 msgid "Empty Trash"
-msgstr ""
+msgstr "ゴミ箱を空にする"
 
 #: src/MainWindow.vala:508
 msgid "bold text"
-msgstr ""
+msgstr "太字のテキスト"
 
 #: src/MainWindow.vala:514
 msgid "italic text"
-msgstr ""
+msgstr "斜体のテキスト"
 
 #: src/MainWindow.vala:520
 msgid "underline text"
-msgstr ""
+msgstr "下線付きのテキスト"
 
 #: src/MainWindow.vala:526
 msgid "strikethrough text"
-msgstr ""
+msgstr "取り消し線付きのテキスト"
 
 #: src/MainWindow.vala:532 src/MainWindow.vala:600
 msgid "Item"
@@ -261,7 +261,7 @@ msgstr "新しいノート"
 
 #: data/ui/edit_notebooks.ui:43
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 #: data/ui/formatbar.ui:16
 msgid "Removes formatting from selected text"
@@ -269,19 +269,19 @@ msgstr ""
 
 #: data/ui/formatbar.ui:33
 msgid "Makes selected text emboldened"
-msgstr ""
+msgstr "選択されたテキストを大文字にします"
 
 #: data/ui/formatbar.ui:45
 msgid "Makes selected text italicized"
-msgstr ""
+msgstr "選択されたテキストを斜体にします"
 
 #: data/ui/formatbar.ui:57
 msgid "Makes selected text underlined"
-msgstr ""
+msgstr "選択されたテキストに下線を付けます"
 
 #: data/ui/formatbar.ui:69
 msgid "Makes selected text striked through"
-msgstr ""
+msgstr "選択されたテキストに取り消し線を付けます"
 
 #: data/ui/formatbar.ui:86
 msgid "Makes selected text into an unordered list"
@@ -309,35 +309,35 @@ msgstr ""
 
 #: data/ui/main_window.ui:188
 msgid "Trashed notes appear here."
-msgstr ""
+msgstr "ゴミ箱に移動されたノートがここに表示されます"
 
 #: data/ui/menu.ui:6
 msgid "Text Size"
-msgstr ""
+msgstr "テキストサイズ"
 
 #: data/ui/menu.ui:10
 msgid "Small"
-msgstr ""
+msgstr "小"
 
 #: data/ui/menu.ui:15
 msgid "Medium"
-msgstr ""
+msgstr "中"
 
 #: data/ui/menu.ui:20
 msgid "Large"
-msgstr ""
+msgstr "大"
 
 #: data/ui/menu.ui:26
 msgid "Dark Mode"
-msgstr ""
+msgstr "ダークモード"
 
 #: data/ui/menu.ui:36
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "キーボードショートカット"
 
 #: data/ui/menu.ui:40
 msgid "About Notejot"
-msgstr ""
+msgstr "Notejotについて"
 
 #: data/ui/move_to_dialog.ui:6
 msgid "Move To"
